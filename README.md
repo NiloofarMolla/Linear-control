@@ -28,7 +28,9 @@ This section includes the research I have conducted, both independently and as p
 
 - **Research Paper 1**: [Time and frequency domain]
 
-- **Research Paper 2**: [Title of the paper]
+- **Research Paper 2**: [Root Locus for Time-Delay Systems]
+
+- **Research Paper 3**: [Why do we take the derivative when a row becomes completely zero in the Routh-Hurwitz method?]
 
 
 (Continue this section for additional research papers.)
